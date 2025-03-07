@@ -65,5 +65,13 @@ wordle-solver/
 ## Demo
 ![Demo](docs/wordle_solver_demo.gif)
 
+
+## Live Demo
+
+A static version of this application is deployed on GitHub Pages:
+[Wordle Solver Live Demo](https://akashkk25.github.io/WORDLE-Solver-GHP/)
+
+Note: The live demo uses a client-side implementation for solving, while the original Flask application provides more comprehensive word filtering.
+
 ## Contact
 Akash Kondaparthi - akashkondaparthi@gmail.com
